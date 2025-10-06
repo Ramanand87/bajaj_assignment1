@@ -1,0 +1,3 @@
+com\example\assignment_app\Configuration\RestTemplateConfig.class
+com\example\assignment_app\AssignmentApplication.class
+com\example\assignment_app\Service\AssignmentService.class
